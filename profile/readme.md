@@ -6,7 +6,9 @@ Mediah is a completely free file sharing platform that utilises Discord to store
 ## Features
 
 - Upload a file of any size entirely in your browser.
-Share files with friends using just a link. - Inport and save files from GitHub, Dropbox, Google Drive and One Drive. (COMING SOON) Down load files on demand.
+- Share files with friends with sharing links.
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive. (COMING SOON)
+- Download files on demand.
 
 ## Getting Started
 
