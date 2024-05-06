@@ -14,4 +14,4 @@ Mediah is a completely free file sharing platform that utilises Discord to store
 
 Mediah can run in a variety of locations and ways. For casual users, we recomnend using the [official Mediah website] (https://mediah. vercel. app). 
 
-However, for more experienced users, we offer an open source local memory -friendly web app version of Mediah. You can find installation instructions for that [here] (https://example. com)
+However, for more experienced users, we offer an open source local memory -friendly web app version of Mediah. You can find installation instructions for that [here] (https://example.com)
