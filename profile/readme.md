@@ -1,5 +1,7 @@
 # Mediah
-## A new way to share files 4 Mediah is a completely free file sharing platform that utilises Discord to store and host files indefinitely.
+## A new way to share files
+
+Mediah is a completely free file sharing platform that utilises Discord to store and host files indefinitely.
 
 ## Features
 
